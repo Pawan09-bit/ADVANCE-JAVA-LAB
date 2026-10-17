@@ -1,0 +1,12 @@
+**/target/
+**/*.class
+
+APACHE/apache-maven-3.9.16-bin.zip
+APACHE/apache-maven-3.9.16-bin/
+APACHE/apache-maven-3.9.16-bin/
+
+APACHE/apache-tomcat-11.0.25/
+APACHE/servlet/target/
+**/*.class
+APACHE/apache-maven-3.9.16-bin.zip
+APACHE/apache-maven-3.9.16-bin/
